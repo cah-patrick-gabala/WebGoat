@@ -452,7 +452,7 @@
         <enabled>false</enabled>
       </snapshots>
       <id>central</id>
-      <url>https://repo.maven.apache.org/maven2</url>
+      <url>https://nexus.cardinalhealth.net/repository/optifreight-next-maven-release/</url>
     </repository>
   </repositories>
   <pluginRepositories>
@@ -461,7 +461,7 @@
         <enabled>false</enabled>
       </snapshots>
       <id>central</id>
-      <url>https://repo.maven.apache.org/maven2</url>
+      <url>https://nexus.cardinalhealth.net/repository/optifreight-next-maven-release/</url>
     </pluginRepository>
   </pluginRepositories>
 
